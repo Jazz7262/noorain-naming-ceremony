@@ -10,9 +10,9 @@ function Timeline() {
                 <div className="content">
                     <h1>Naming Ceremony</h1>
                     <p>
-                        On Sunday, 17<sup>th</sup> July, 2022,
+                        On Sunday, 16<sup>th</sup> July, 2022,
                         <br />
-                        17<sup>th</sup> of Zil-Hajjah, 1443,
+                        16<sup>th</sup> of Zil-Hajjah, 1443,
                         <br />
                         Time: 02:00 PM.
                     </p>
