@@ -82,18 +82,18 @@
         padding: 7% 10%;
     }
     #slide img {
-        width: 80%;
+        width: 90%;
     }
     #slide .text-content h3 {
-        font-size: 60%;
+        font-size: 75%;
         margin-bottom: 8px;
     }
     #slide .text-content h1 {
-        font-size: 130%;
+        font-size: 150%;
         margin-bottom: 6px;
     }
     #slide .text-content p {
-        font-size: 60%;
+        font-size: 75%;
         padding: 4px 8px;
     }
 }
